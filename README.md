@@ -26,6 +26,176 @@ This roadmap is divided into four stages:
 3. **Systems** – threads, channels, async, concurrency  
 4. **Advanced** – web frameworks, databases, microservices, WASM  
 
+```md
+# 🦀 Rust Project Categories (Ranked 1–50)
+A clean, structured, project‑based roadmap to master Rust from zero to advanced.
+
+---
+
+## 🧱 Beginner Projects (1–15) — CLI tools, fundamentals, ownership, borrowing
+
+**1. 🦀 Hello Rust CLI**  
+Your first Rust binary using Cargo; learn compilation and printing output.
+
+**2. 🌡️ Temperature Converter**  
+Convert Celsius/Fahrenheit using functions and user input.
+
+**3. ➗ Simple Calculator**  
+Perform arithmetic operations; practice parsing input and error handling.
+
+**4. 🎯 Guessing Game**  
+Classic Rust tutorial; teaches loops, randomness, and comparisons.
+
+**5. 🔄 String Reverser**  
+Reverse text using Rust’s string manipulation methods.
+
+**6. ✍️ Word Counter**  
+Count words and characters in a sentence or file.
+
+**7. 📝 To‑Do List (In‑Memory)**  
+Add, list, and remove tasks using vectors and loops.
+
+**8. 🔐 Password Generator**  
+Generate secure random passwords using Rust’s RNG.
+
+**9. 📦 JSON Reader**  
+Parse JSON using Serde; introduces serialization/deserialization.
+
+**10. 📄 File Reader**  
+Read and print file contents; teaches file I/O.
+
+**11. ⏱️ Stopwatch**  
+Track elapsed time using `Instant`.
+
+**12. 🎲 Dice Roller**  
+Simulate dice rolls with randomness.
+
+**13. ⚙️ Config Loader**  
+Load settings from a `.toml` file.
+
+**14. 📰 Markdown → Text Converter**  
+Strip Markdown formatting using string operations.
+
+**15. 📇 Contact Book**  
+Store contacts using structs and vectors.
+
+---
+
+## ⚙️ Intermediate Projects (16–30) — APIs, modules, file I/O, networking
+
+**16. 🗒️ Notes App (File‑Based)**  
+Persistent notes stored in text files.
+
+**17. 🔗 URL Shortener (Local)**  
+Map long URLs to short codes using hashing.
+
+**18. 📊 CSV Parser**  
+Read and parse CSV rows manually.
+
+**19. 🧩 Logger Library**  
+Build a reusable logging crate with traits.
+
+**20. ☁️ Weather CLI (API)**  
+Fetch weather data using HTTP requests.
+
+**21. 🗃️ Key‑Value Store**  
+Simple local database using HashMap and file persistence.
+
+**22. 🛡️ Mini Encryption Tool**  
+Encrypt/decrypt text using XOR or simple ciphers.
+
+**23. ⏲️ Stopwatch v2**  
+Multi‑command stopwatch with subcommands.
+
+**24. 🕸️ Web Scraper**  
+Extract text from websites using HTTP + HTML parsing.
+
+**25. 🖼️ Image Metadata Reader**  
+Read EXIF metadata from images.
+
+**26. ⏰ Timer Daemon**  
+Background timer using loops and sleep.
+
+**27. 💬 Local Chat (Sockets)**  
+Send messages between terminals using TCP.
+
+**28. 📚 Markdown Previewer**  
+Render Markdown in the terminal.
+
+**29. 🗄️ JSON Database**  
+Store structured data in JSON files.
+
+**30. 🔄 File Sync Tool**  
+Sync two folders locally using file hashing.
+
+---
+
+## 🧵 Systems Projects (31–40) — Threads, async, concurrency, performance
+
+**31. 🧵 Multithreaded Counter**  
+Use threads + Arc + Mutex safely.
+
+**32. 🏗️ Thread Pool**  
+Build your own thread pool executor.
+
+**33. ⚡ Async HTTP Fetcher**  
+Fetch multiple URLs concurrently.
+
+**34. 📥 Concurrent Downloader**  
+Download files in parallel.
+
+**35. 📡 Async Chat Server**  
+Multi‑client async chat using Tokio.
+
+**36. 🎭 Mini Actor System**  
+Message‑passing actors with channels.
+
+**37. 📆 Task Scheduler**  
+Schedule tasks at intervals.
+
+**38. 📬 Async Job Queue**  
+Queue + worker system.
+
+**39. ⚖️ Load Balancer**  
+Distribute requests across workers.
+
+**40. 🕷️ Web Crawler**  
+Crawl multiple pages concurrently.
+
+---
+
+## 🚀 Advanced Projects (41–50) — Web frameworks, databases, WASM, microservices
+
+**41. 🌐 REST API (Axum)**  
+Build a full REST API with routing and handlers.
+
+**42. 🔑 JWT Auth Service**  
+Token‑based authentication with secure middleware.
+
+**43. 🗄️ Postgres CRUD App**  
+Database integration using SQLx.
+
+**44. 🐳 Microservice (Docker)**  
+Containerized Rust service with environment configs.
+
+**45. 📞 WebSocket Chat**  
+Real‑time communication server.
+
+**46. 🏗️ Static Site Generator**  
+Convert Markdown into HTML pages.
+
+**47. 🧰 CLI Framework (Crate)**  
+Build your own CLI library with macros.
+
+**48. 🖌️ Image Processing Tool**  
+Resize, crop, and filter images.
+
+**49. 🕹️ Rust + WASM App**  
+Run Rust in the browser with WebAssembly.
+
+**50. 🚀 Full Notes App (API + UI)**  
+Production‑ready full‑stack Rust project.
+```
 
 
 
