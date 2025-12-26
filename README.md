@@ -2,7 +2,7 @@
 
 # 🦀 <strong>Rust Zero‑to‑Hero: 50 Projects Roadmap</strong>  
 ### 🚀 A project‑based journey to master Rust from beginner to advanced  
-### 🧠 Real‑world skills • 🔥 Future‑proof learning  
+### 🧠 Real‑world skills   
 
 ---
 
@@ -26,7 +26,8 @@ This roadmap is divided into four stages:
 3. **Systems** – threads, channels, async, concurrency  
 4. **Advanced** – web frameworks, databases, microservices, WASM  
 
-```md
+---
+
 # 🦀 Rust Project Categories (Ranked 1–50)
 A clean, structured, project‑based roadmap to master Rust from zero to advanced.
 
@@ -197,21 +198,6 @@ Run Rust in the browser with WebAssembly.
 Production‑ready full‑stack Rust project.
 ```
 
-
-
----
-
-# 📌 **Overview**
-**Rust Zero‑to‑Hero: 50 Projects** is a structured, project‑based learning roadmap where you build **one Rust project per day**.  
-Designed for real‑world skills and long‑term mastery, this repo prepares you for a future where Rust becomes increasingly important as major companies — including Microsoft — shift away from C++ toward safer, modern systems languages.
-
-This roadmap is divided into four stages:
-
-1. **Beginner** – syntax, ownership, borrowing, CLI basics  
-2. **Intermediate** – traits, generics, modules, file I/O, APIs  
-3. **Systems** – threads, channels, async, concurrency  
-4. **Advanced** – web frameworks, databases, microservices, WASM  
-
 ---
 
 # 🦀 **Why Rust Will Be More Important in the Future**
@@ -244,8 +230,6 @@ Learning Rust today prepares developers for:
 - high‑performance applications  
 
 ---
-
-# 🗂️ **Folder Structure**
 
 
 ## 🦀 Why Rust Is Important
