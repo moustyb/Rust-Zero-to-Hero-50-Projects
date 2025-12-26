@@ -1,9 +1,8 @@
-````md
 <div align="center">
 
 # 🦀 **Rust Zero‑to‑Hero: 50 Projects Roadmap**  
 ### 🚀 A project‑based journey to master Rust from beginner to advanced  
-### 📅 One project per day • 🧠 Real‑world skills • 🔥 Future‑proof learning  
+### 🧠 Real‑world skills • 🔥 Future‑proof learning  
 
 ---
 
@@ -12,9 +11,7 @@
 ![Learning](https://img.shields.io/badge/Method-Project--Based-orange?style=for-the-badge)
 ![Energy](https://img.shields.io/badge/Made%20With-Learning%20Energy-red?style=for-the-badge)
 
-**Author:** Mousty Bay  
-**Location:** San Francisco → Global  
-**Mission:** Build public learning systems that scale  
+
 
 </div>
 
@@ -26,17 +23,7 @@ Designed for real‑world skills and long‑term mastery, this repo prepares you
 
 This roadmap is divided into four stages:
 
-1. **Beginner** — syntax, ownership, borrowing, CLI basics  
-2. **Intermediate** — traits, generics, modules, file I/O, APIs  
-3. **Systems** — threads, channels, async, concurrency  
-4. **Advanced** — web frameworks, databases, microservices, WASM  
-
-Each project includes:
-- 🧠 Concept focus  
-- 📝 One‑sentence explanation  
-- 📁 Folder structure  
-- 🚀 Clear progression  
-
----
-
-# 🗂️ **Folder Structure**
+1. **Beginner** – syntax, ownership, borrowing, CLI basics  
+2. **Intermediate** – traits, generics, modules, file I/O, APIs  
+3. **Systems** – threads, channels, async, concurrency  
+4. **Advanced** – web frameworks, databases, microservices, WASM  
